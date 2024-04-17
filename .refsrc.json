@@ -13,6 +13,12 @@
   "github": {
     "url": "https://github.com/jaywcjlove/reference"
   },
+    "home": {
+    "label": "首页",
+    "url": "https://ref.wangchunfei.com/"
+  },
+  "footer": "<br />备案号：支持HTML字符串",
+  "license": "license支持 HTML 字符串",
   "giscus": {
     "src": "https://giscus.app/client.js",
     "data-repo": "jaywcjlove/reference",
