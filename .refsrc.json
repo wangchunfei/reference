@@ -17,8 +17,8 @@
     "label": "首页",
     "url": "https://ref.wangchunfei.com/"
   },
-  "footer": "<br />备案号：支持HTML字符串",
-  "license": "license支持 HTML 字符串",
+  "footer": "<br />备案号：<a href="https://beian.miit.gov.cn">浙ICP备19045178号-2</a>",
+  "license": "Copyright (c) <b>2024</b> wangchunfei™",
   "giscus": {
     "src": "https://giscus.app/client.js",
     "data-repo": "jaywcjlove/reference",
