@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3 # 记得使用 v3
         with:
           ref: 'main'
-          repository: 'wangchunfei/reference'
+          repository: 'jaywcjlove/reference'
 
       - name: 🎬 编译静态文件
         run: |
